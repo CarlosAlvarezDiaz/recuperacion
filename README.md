@@ -6,9 +6,7 @@ git branch -M main
 git remote add origin https://github.com/CarlosAlvarezDiaz/recuperacion.git
 git push -u origin main
 
-1. Descarga la imagen 'httpd' y comprueba que está en tu equipo.
-
-1 Descarga la imagen 'httpd' y comprueba que está en tu equipo.
+1. Descarga la imagen 'ubuntu' y comprueba que está en tu equipo.
    
       $ docker pull ubuntu
         Using default tag: latest
